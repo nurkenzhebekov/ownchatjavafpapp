@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832940796495",
+    "project_id": "ownchat-ecf84",
+    "storage_bucket": "ownchat-ecf84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832940796495:android:88ade6a746a6ab7eaa983a",
+        "android_client_info": {
+          "package_name": "com.example.ownchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832940796495-k3b2gk988v8p2m52ivni522d42nvfght.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ownchat",
+            "certificate_hash": "79aa6778478b63f8567401cae383b0607845f41e"
+          }
+        },
+        {
+          "client_id": "832940796495-667k947hsivd9r23riv3k39mok1vhgko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnexvCOTyTmsyPbizPsGmRVQNb0O2_u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832940796495-667k947hsivd9r23riv3k39mok1vhgko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
